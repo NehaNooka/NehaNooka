@@ -1,5 +1,5 @@
 
-<img src="1.jpg" height=500px width=100%>
+<img src="1.jpg" height=290px width=100%>
 
 <br />
 <br />
