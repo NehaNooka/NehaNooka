@@ -1,3 +1,7 @@
+<img src="1.jpg" height=500px width=100%>
+
+<br />
+<br />
 ### Hi there👋 It’s a pleasure to meet you.
 
 [![Linkedin Badge](https://img.shields.io/badge/-NehaNooka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-nooka-076588153)][linkedin]
