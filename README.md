@@ -1,9 +1,10 @@
+
 <img src="1.jpg" height=500px width=100%>
 
 <br />
 <br />
-### Hi there👋 It’s a pleasure to meet you.
 
+### Hi there👋 It’s a pleasure to meet you.
 [![Linkedin Badge](https://img.shields.io/badge/-NehaNooka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-nooka-076588153)][linkedin]
 [![Instagram Badge](https://img.shields.io/badge/-nooka_neha-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/nooka_neha)][instagram]
 
