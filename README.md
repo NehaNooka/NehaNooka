@@ -30,4 +30,4 @@
 [twitter]: https://www.twitter.com/NehaNooka
 [instagram]: https://www.instagram.com/nooka_neha
 [linkedin]: https://www.linkedin.com/in/neha-nooka-076588153
-[github]: https://github.com/NookaNeha
+[github]: https://github.com/NehaNooka
