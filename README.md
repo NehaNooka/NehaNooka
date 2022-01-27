@@ -25,9 +25,9 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=NookaNeha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NehaNooka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 [twitter]: https://www.twitter.com/NehaNooka
 [instagram]: https://www.instagram.com/nooka_neha
-[linkedin]: https://www.linkedin.com/in/neha-nooka-076588153
+[linkedin]: https://www.linkedin.com/in/neha-nooka
 [github]: https://github.com/NehaNooka
